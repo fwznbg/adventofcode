@@ -11,4 +11,4 @@ let read_lines (filename: string) : string list =
 
 
 let () = 
-    read_lines "./input/day03" |> Aoc2024.Day03.run
+    read_lines "./input/day04" |> Aoc2024.Day04.run
